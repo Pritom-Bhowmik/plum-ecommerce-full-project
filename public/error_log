@@ -1,0 +1,2 @@
+[10-Aug-2023 16:28:00 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Backend\UserController::delete() in /home/ptl4606q9941/public_html/web.au/app/Http/Controllers/Backend/UserController.php on line 150
+[10-Aug-2023 16:28:26 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Backend\UserController::delete() in /home/ptl4606q9941/public_html/web.au/app/Http/Controllers/Backend/UserController.php on line 151
